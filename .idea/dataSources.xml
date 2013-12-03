@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2855062317">
+    <data-source source="LOCAL" name="Rails cocoa: production" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="a43e1641-b5d7-4ece-9f3b-6f6d3b405b71">
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:cocoa_production</jdbc-url>
+      <user-name>cocoa</user-name>
+      <user-password>dfc9dfc5dfc9dfc5dfcb</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/postgresql-driver-license.txt</url>
+        </library>
+        <library>
+          <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/postgresql-9.2-1002.jdbc4.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="Rails cocoa: test" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="64e8114d-38fe-419c-94fc-ab18b8e3b5a0">
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:cocoa_test</jdbc-url>
+      <user-name>cocoa</user-name>
+      <user-password>dfc9dfc5dfc9dfc5dfcb</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/postgresql-driver-license.txt</url>
+        </library>
+        <library>
+          <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/postgresql-9.2-1002.jdbc4.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="Rails cocoa: development" product="PostgreSQL" version="9.3.1" jdbc-version="4.0" driver-name="PostgreSQL Native Driver" driver-version="PostgreSQL 9.2 JDBC4 (build 1002)" uuid="a6725fd6-1031-4271-b247-4b2864341ef4">
+      <identifier-quote-string>&quot;</identifier-quote-string>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:cocoa_development</jdbc-url>
+      <user-name>cocoa</user-name>
+      <user-password>dfc9dfc5dfc9dfc5dfcb</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/postgresql-driver-license.txt</url>
+        </library>
+        <library>
+          <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/postgresql-9.2-1002.jdbc4.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+

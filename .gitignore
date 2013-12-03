@@ -1,0 +1,43 @@
+# Default .gitignore file for Cocoa Web App
+# Author: Juan Martinez
+# Date: 2013-09-26
+# Ignore bundler config
+
+/.bundle
+
+# Ignore the default SQLite database.
+/db/*.sqlite3
+/db/*.sqlite3-journal
+
+# Ignore all logfiles and tempfiles.
+/log/*.log
+/tmp
+
+# Ignore other resources, not useful for now
+config/database.yml
+config/google_analytics.yml
+.DS_Store
+/nbproject/
+public/assets/**
+
+# Aditional resources ignore now
+
+*.rbc
+*.sassc
+.sass-cache
+capybara-*.html
+.rspec
+/public/system
+/coverage/
+/spec/tmp
+**.orig
+rerun.txt
+pickle-email-*.html
+config/initializers/secret_token.rb
+
+# Environment normalisation:
+/.bundle
+/vendor/bundle
+
+# unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
+.rvmrc
